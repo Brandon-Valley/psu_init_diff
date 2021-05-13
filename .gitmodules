@@ -1,0 +1,3 @@
+[submodule "sms/git_tools"]
+	path = sms/git_tools
+	url = https://ba-bit.web.boeing.com/scm/mnfcf/git_tools.git
